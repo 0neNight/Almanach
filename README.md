@@ -46,6 +46,7 @@ Projekt został zbudowany przy użyciu:
 * **Python 3** - Główny język logiki.
 * **PyQt6** - Interfejs graficzny (GUI) i wątki w tle.
 * **Nuitka** - Kompilator do natywnego pliku `.exe` (C-level performance).
+* **PyArmor** - Obfuskacja i zabezpieczenie kodu źródłowego.
 * **Inno Setup** - Generowanie instalatora.
 
 ---
